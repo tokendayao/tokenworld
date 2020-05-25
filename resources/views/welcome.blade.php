@@ -81,7 +81,7 @@
 
             <div class="content">
                   <div class="title m-b-md">
-                    <img src="./IMG_1601.jpg" />
+                    <img src="./IMG_1601.JPG" />
                 </div>
                 <div class="title m-b-md">
                     Token Yan
